@@ -1,0 +1,11 @@
+@media (max-width: 1199.98px) {
+  carousel-item img {
+    height: 100%;
+  }
+}
+
+body {
+  background-image: url(img/SL-043021-42650-28.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
